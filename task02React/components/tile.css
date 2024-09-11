@@ -1,0 +1,13 @@
+.tile {
+  background-color: rgb(72, 170, 137);
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 5px solid white;
+  font-size: larger;
+  font-weight: bolder;
+  color: white;
+  cursor: pointer;
+}
